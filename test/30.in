@@ -1,0 +1,75 @@
+# implementar _rep_iterador, crearIterador, liberarIterador, estaDefinidaActual
+estaDefinidaActual
+reiniciarEstructuras
+# implementar agregarAIterador
+estaDefinidaActual
+agregarAIterador 5
+estaDefinidaActual
+reiniciarEstructuras
+# implementar reiniciarIterador
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+agregarAIterador 5
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+reiniciarEstructuras
+# implementar actualEnIterador
+reiniciarIterador
+estaDefinidaActual
+agregarAIterador 5
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+agregarAIterador 5
+agregarAIterador 6
+agregarAIterador 7
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+reiniciarEstructuras
+# implementar avanzarIterador
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+avanzarIterador
+estaDefinidaActual
+agregarAIterador 5
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+agregarAIterador 5
+agregarAIterador 6
+agregarAIterador 7
+estaDefinidaActual
+avanzarIterador
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+reiniciarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+avanzarIterador
+avanzarIterador
+estaDefinidaActual
+actualEnIterador
+avanzarIterador
+estaDefinidaActual
+Fin

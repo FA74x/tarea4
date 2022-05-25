@@ -1,0 +1,23 @@
+# implementar ordenadaPorModulo
+ordenadaPorModulo 2
+insertarAlInicio 50 50.0
+ordenadaPorModulo 2
+insertarAlInicio 50 60.0
+ordenadaPorModulo 2
+insertarAlInicio 11 11.0
+ordenadaPorModulo 2
+insertarAlFinal 40 40.0
+ordenadaPorModulo 2
+ordenadaPorModulo 3
+ordenadaPorModulo 4
+ordenadaPorModulo 10
+ordenadaPorModulo 100
+insertarAlFinal 54 0.0
+insertarAlFinal 49 0.0
+insertarAlFinal 121 0.0
+insertarAlFinal 18 0.0
+ordenadaPorModulo 9
+ordenadaPorModulo 7
+ordenadaPorModulo 11
+ordenadaPorModulo 6
+Fin

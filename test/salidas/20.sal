@@ -1,0 +1,113 @@
+1>#  implementar _rep_colCadenas, crearColCadenas, liberarColCadenas, cantidadColCadenas, estaEnColCadenas.
+2>La cantidad en la cadena 0 es 0.
+3>La cantidad en la cadena 9 es 0.
+4>5 no está en la cadena 0.
+5>5 no está en la cadena 9.
+6>Estructuras reiniciadas.
+7>#  implementar insertarEnColCadenas.
+8>La cantidad en la cadena 0 es 0.
+9>La cantidad en la cadena 9 es 0.
+10>Se insertó (3,3.00) en la cadena 0.
+11>3 está en la cadena 0.
+12>3 no está en la cadena 1.
+13>Se insertó (3,13.10) en la cadena 9.
+14>Se insertó (3,13.10) en la cadena 5.
+15>La cantidad en la cadena 0 es 1.
+16>La cantidad en la cadena 1 es 0.
+17>La cantidad en la cadena 5 es 1.
+18>La cantidad en la cadena 9 es 1.
+19>3 está en la cadena 9.
+20>3 está en la cadena 5.
+21>Se insertó (8,8.00) en la cadena 0.
+22>Se insertó (9,9.00) en la cadena 0.
+23>Se insertó (5,5.00) en la cadena 5.
+24>Se insertó (6,6.00) en la cadena 5.
+25>Se insertó (7,7.00) en la cadena 5.
+26>Se insertó (4,4.00) en la cadena 9.
+27>La cantidad en la cadena 0 es 3.
+28>La cantidad en la cadena 1 es 0.
+29>La cantidad en la cadena 5 es 4.
+30>La cantidad en la cadena 9 es 2.
+31>9 está en la cadena 0.
+32>9 no está en la cadena 5.
+33>6 está en la cadena 5.
+34>4 no está en la cadena 0.
+35>4 está en la cadena 9.
+36>Estructuras reiniciadas.
+37>#  implementar infoEnColCadenas.
+38>Se insertó (3,3.00) en la cadena 0.
+39>Se insertó (3,13.10) en la cadena 0.
+40>Se insertó (3,13.10) en la cadena 9.
+41>Se insertó (3,13.10) en la cadena 5.
+42>Se insertó (8,8.00) en la cadena 0.
+43>Se insertó (9,9.00) en la cadena 0.
+44>Se insertó (5,5.00) en la cadena 5.
+45>Se insertó (6,6.00) en la cadena 5.
+46>Se insertó (7,7.00) en la cadena 5.
+47>Se insertó (4,4.00) en la cadena 9.
+48>La primera aparición de 3 en la cadena 0 es (3,13.10)
+49>La primera aparición de 3 en la cadena 5 es (3,13.10)
+50>La primera aparición de 3 en la cadena 9 es (3,13.10)
+51>La primera aparición de 9 en la cadena 0 es (9,9.00)
+52>La primera aparición de 6 en la cadena 5 es (6,6.00)
+53>La primera aparición de 4 en la cadena 9 es (4,4.00)
+54>Estructuras reiniciadas.
+55>#  implementar removerDeColCadenas.
+56>Se insertó (3,3.00) en la cadena 0.
+57>Se insertó (3,13.10) en la cadena 0.
+58>Se insertó (3,13.10) en la cadena 9.
+59>Se insertó (3,13.10) en la cadena 5.
+60>Se insertó (8,8.00) en la cadena 0.
+61>Se insertó (9,9.00) en la cadena 0.
+62>Se insertó (5,5.00) en la cadena 5.
+63>Se insertó (6,6.00) en la cadena 5.
+64>Se insertó (7,7.00) en la cadena 5.
+65>Se insertó (4,4.00) en la cadena 9.
+66>La cantidad en la cadena 0 es 4.
+67>La cantidad en la cadena 5 es 4.
+68>La cantidad en la cadena 9 es 2.
+69>La primera aparición de 3 en la cadena 0 es (3,13.10)
+70>Se removió la primera aparición de 3 de la cadena 0.
+71>3 está en la cadena 0.
+72>La primera aparición de 6 en la cadena 5 es (6,6.00)
+73>Se removió la primera aparición de 6 de la cadena 5.
+74>6 no está en la cadena 5.
+75>Se removió la primera aparición de 3 de la cadena 5.
+76>Se removió la primera aparición de 4 de la cadena 9.
+77>Se removió la primera aparición de 3 de la cadena 9.
+78>La cantidad en la cadena 0 es 3.
+79>La cantidad en la cadena 5 es 2.
+80>La cantidad en la cadena 9 es 0.
+81>Se insertó (3,3.00) en la cadena 0.
+82>La primera aparición de 3 en la cadena 0 es (3,3.00)
+83>La cantidad en la cadena 0 es 4.
+84>Se insertó (6,16.10) en la cadena 5.
+85>6 está en la cadena 5.
+86>La primera aparición de 6 en la cadena 5 es (6,16.10)
+87>Estructuras reiniciadas.
+88>#  implementar cadenaDeColCadenas.
+89>La cadena 0 es :
+90>La cadena 9 es :
+91>Se insertó (3,3.00) en la cadena 3.
+92>La cadena 0 es :
+93>La cadena 3 es :(3,3.00)
+94>La cadena 9 es :
+95>Se insertó (2,2.00) en la cadena 3.
+96>Se insertó (5,5.00) en la cadena 3.
+97>Se insertó (8,8.00) en la cadena 3.
+98>Se insertó (1,1.00) en la cadena 3.
+99>La cadena 0 es :
+100>La cadena 3 es :(1,1.00)(8,8.00)(5,5.00)(2,2.00)(3,3.00)
+101>La cadena 9 es :
+102>Se insertó (8,8.00) en la cadena 0.
+103>Se insertó (9,9.00) en la cadena 0.
+104>Se insertó (5,5.00) en la cadena 8.
+105>Se insertó (6,6.00) en la cadena 8.
+106>Se insertó (7,7.00) en la cadena 8.
+107>Se insertó (4,4.00) en la cadena 9.
+108>La cadena 0 es :(9,9.00)(8,8.00)
+109>La cadena 1 es :
+110>La cadena 3 es :(1,1.00)(8,8.00)(5,5.00)(2,2.00)(3,3.00)
+111>La cadena 8 es :(7,7.00)(6,6.00)(5,5.00)
+112>La cadena 9 es :(4,4.00)
+113>Fin.

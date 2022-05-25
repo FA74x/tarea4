@@ -1,0 +1,77 @@
+# implementar insertarAlFinal
+insertarAlFinal 5 5.0
+primeroEnCadena
+removerDeCadena 5
+cantidadEnCadena
+insertarAlInicio 6 6.0
+insertarAlFinal 7 7.0
+primeroEnCadena
+imprimirCadena
+removerDeCadena 7
+primeroEnCadena
+insertarAlFinal 6 16.1
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 1
+reiniciarEstructuras
+insertarAlFinal 5 5.0
+insertarAlFinal 5 15.1
+insertarAlFinal 5 25.2
+insertarAlFinal 5 35.3
+primeroEnCadena
+cadenaSiguiente 0
+cadenaSiguiente 3
+reiniciarEstructuras
+# implementar removerPrimero
+insertarAlInicio 5 5.0
+removerPrimero
+cantidadEnCadena
+insertarAlInicio 6 6.0
+insertarAlFinal 7 7.0
+removerPrimero
+cantidadEnCadena
+primeroEnCadena
+imprimirCadena
+insertarAlInicio 8 8.0
+insertarAlInicio 6 6.0
+removerPrimero
+cantidadEnCadena
+primeroEnCadena
+imprimirCadena
+reiniciarEstructuras
+# implementar copiaCadena
+copiaCadena
+insertarAlInicio 5 5.0
+copiaCadena
+insertarAlInicio 6 6.0
+copiaCadena
+cadenaSiguiente 1
+copiaCadena
+insertarAlInicio 9 6.0
+insertarAlInicio 8 8.0
+insertarAlInicio 7 7.0
+insertarAlInicio 4 4.0
+insertarAlInicio 3 3.0
+cadenaSiguiente 1
+copiaCadena
+reiniciarEstructuras
+# implementar reversoDeIterador
+reversoDeIterador
+agregarAIterador 1
+reversoDeIterador
+agregarAIterador 2
+reversoDeIterador
+reiniciarEstructuras
+agregarAIterador 1
+agregarAIterador 2
+agregarAIterador 3
+agregarAIterador 4
+agregarAIterador 5
+agregarAIterador 6
+reversoDeIterador
+reversoDeIterador
+agregarAIterador 13
+agregarAIterador 12
+agregarAIterador 11
+reversoDeIterador
+Fin

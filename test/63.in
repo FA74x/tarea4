@@ -1,0 +1,17 @@
+# implementar mezclaCadenas
+mezclaCadenas 0 0
+mezclaCadenas 0 1 (50,0)
+mezclaCadenas 1 (50,0) 0
+mezclaCadenas 1 (40,0) 1 (50,0)
+mezclaCadenas 1 (40,0) 1 (30,0)
+mezclaCadenas 1 (40,3.0) 1 (40,0)
+mezclaCadenas 1 (90,0) 4 (10,0) (20,0) (30,0) (40,0)
+mezclaCadenas 4 (10,0) (20,0) (30,0) (40,0) 1 (90,0)
+mezclaCadenas 3 (70,0) (80,0) (90,0) 4 (10,0) (20,0) (30,0) (40,0)
+mezclaCadenas 4 (10,0) (20,0) (30,0) (40,0) 3 (70,0) (80,0) (90,0)
+mezclaCadenas 3 (70,0) (80,0) (90,0) 4 (65,0) (75,0) (85,0) (95,0)
+mezclaCadenas 4 (65,0) (75,0) (85,0) (95,0) 3 (70,0) (80,0) (90,0)
+mezclaCadenas 4 (20,1) (30,0) (40,3) (50,3) 3 (20,0) (35,0) (50,0)
+mezclaCadenas 4 (20,1) (30,0) (40,3) (50,3) 3 (25,0) (40,0) (45,0)
+mezclaCadenas 4 (20,1) (30,0) (40,3) (50,3) 3 (15,0) (30,0) (55,0)
+Fin

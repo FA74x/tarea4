@@ -1,0 +1,26 @@
+1>#  implementar estaOrdenada.
+2>La cadena está ordenada.
+3>Se insertó (50,1.00) al inicio de la cadena.
+4>La cadena está ordenada.
+5>Se insertó (50,0.00) al inicio de la cadena.
+6>La cadena no está ordenada.
+7>Se removió la primera aparición de 50 de la cadena.
+8>Se insertó (51,0.00) al inicio de la cadena.
+9>La cadena no está ordenada.
+10>Se removió la primera aparición de 51 de la cadena.
+11>Se insertó (40,0.00) al inicio de la cadena.
+12>La cadena está ordenada.
+13>Se insertó (40,0.00) al inicio de la cadena.
+14>Se insertó (30,0.00) al inicio de la cadena.
+15>La cadena no está ordenada.
+16>Se removió la primera aparición de 50 de la cadena.
+17>La cadena no está ordenada.
+18>Se removió la primera aparición de 40 de la cadena.
+19>La cadena está ordenada.
+20>Se insertó (29,0.00) al inicio de la cadena.
+21>Se insertó (28,0.00) al inicio de la cadena.
+22>Se insertó (27,0.00) al inicio de la cadena.
+23>Se insertó (26,0.00) al inicio de la cadena.
+24>Se insertó (25,0.00) al inicio de la cadena.
+25>La cadena está ordenada.
+26>Fin.

@@ -1,0 +1,26 @@
+# implementar estaOrdenada
+estaOrdenada
+insertarAlInicio 50 1.0
+estaOrdenada
+insertarAlInicio 50 0
+estaOrdenada
+removerDeCadena 50
+insertarAlInicio 51 0
+estaOrdenada
+removerDeCadena 51
+insertarAlInicio 40 0
+estaOrdenada
+insertarAlInicio 40 0
+insertarAlInicio 30 0
+estaOrdenada
+removerDeCadena 50
+estaOrdenada
+removerDeCadena 40
+estaOrdenada
+insertarAlInicio 29 0
+insertarAlInicio 28 0
+insertarAlInicio 27 0
+insertarAlInicio 26 0
+insertarAlInicio 25 0
+estaOrdenada
+Fin

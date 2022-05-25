@@ -1,0 +1,29 @@
+# implementar cola
+cantidadEnCola
+encolar (3,3.0)
+cantidadEnCola
+frente
+desencolar
+cantidadEnCola
+encolar (5,5.0)
+encolar (6,5.0)
+encolar (3,5.0)
+encolar (8,5.0)
+encolar (2,5.0)
+encolar (1,5.0)
+encolar (10,5.0)
+encolar (5,3.0)
+frente
+cantidadEnCola
+desencolar
+frente
+cantidadEnCola
+encolar (21,5.0)
+encolar (18,5.0)
+encolar (13,5.0)
+encolar (30,5.0)
+encolar (1,5.0)
+encolar (1,5.0)
+frente
+cantidadEnCola
+Fin

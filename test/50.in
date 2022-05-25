@@ -1,0 +1,289 @@
+# implementar _rep_abb, crearAbb, liberarAbb, esVacioAbb, buscarSubarbol (al menos para un árbol vacío)
+esVacioAbb
+buscarSubarbol 5
+reiniciarEstructuras
+# implementar buscarSubarbol, insertarEnAbb (al menos en un árbol vacío), raiz, izquierdo, derecho
+insertarEnAbb (5,5.0)
+esVacioAbb
+buscarSubarbol 5
+buscarSubarbol 3
+raiz
+izquierdo
+derecho
+reiniciarEstructuras
+# implementar insertarEnAbb, menorEnAbb, mayorEnAbb
+insertarEnAbb (50,50.0)
+menorEnAbb
+mayorEnAbb
+insertarEnAbb (30,30.0)
+buscarSubarbol 30
+menorEnAbb
+mayorEnAbb
+insertarEnAbb (80,80.0)
+insertarEnAbb (90,90.0)
+mayorEnAbb
+buscarSubarbol 80
+buscarSubarbol 90
+insertarEnAbb (85,85.0)
+insertarEnAbb (40,40.0)
+menorEnAbb
+mayorEnAbb
+reiniciarEstructuras
+insertarEnAbb (12,12.0)
+insertarEnAbb (8,8.0)
+insertarEnAbb (5,5.0)
+insertarEnAbb (4,4.0)
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (6,6.0)
+insertarEnAbb (11,11.0)
+insertarEnAbb (18,18.0)
+insertarEnAbb (17,17.0)
+raiz
+izquierdo
+derecho
+menorEnAbb
+mayorEnAbb
+buscarSubarbol 12
+buscarSubarbol 5
+buscarSubarbol 18
+reiniciarEstructuras
+# implementar removerDeAbb
+insertarEnAbb (5,5.0)
+removerDeAbb 5
+buscarSubarbol 5
+esVacioAbb
+reiniciarEstructuras
+insertarEnAbb (12,12.0)
+insertarEnAbb (8,8.0)
+insertarEnAbb (5,5.0)
+insertarEnAbb (4,4.0)
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (6,6.0)
+insertarEnAbb (11,11.0)
+insertarEnAbb (38,38.0)
+insertarEnAbb (17,17.0)
+insertarEnAbb (20,20.0)
+insertarEnAbb (30,30.0)
+removerDeAbb 2
+removerDeAbb 38
+menorEnAbb
+mayorEnAbb
+derecho
+buscarSubarbol 2
+buscarSubarbol 17
+buscarSubarbol 38
+removerDeAbb 12
+raiz
+izquierdo
+derecho
+removerDeAbb 11
+raiz
+izquierdo
+derecho
+removerDeAbb 8
+raiz
+izquierdo
+derecho
+removerDeAbb 7
+raiz
+izquierdo
+derecho
+removerDeAbb 6
+raiz
+izquierdo
+derecho
+removerDeAbb 5
+raiz
+izquierdo
+derecho
+removerDeAbb 4
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 20
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 17
+raiz
+izquierdo
+derecho
+esVacioAbb
+removerDeAbb 30
+esVacioAbb
+reiniciarEstructuras
+# implementar linealizacion, imprimirAbb, copiaAbb, consAbb
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (10,10.0) 1 20
+esVacioAbb
+insertarEnAbb (5,5.0)
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (9,9.0) 5 20
+consAbb (3,3.0) 1 5
+insertarEnAbb (2,2.0)
+insertarEnAbb (30,30.0)
+linealizacion
+imprimirAbb
+insertarEnAbb (20,20.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (15,15.0)
+insertarEnAbb (25,25.0)
+insertarEnAbb (40,40.0)
+insertarEnAbb (35,35.0)
+insertarEnAbb (38,38.0)
+insertarEnAbb (50,50.0)
+insertarEnAbb (45,45.0)
+insertarEnAbb (60,60.0)
+linealizacion
+imprimirAbb
+copiaAbb
+consAbb (26,26.0) 20 40
+consAbb (34,34.0) 20 40
+reiniciarEstructuras
+# implementar esPerfecto
+esPerfecto
+insertarEnAbb (20,20.0)
+esPerfecto
+insertarEnAbb (30,30.0)
+esPerfecto
+insertarEnAbb (10,10.0)
+esPerfecto
+insertarEnAbb (5,5.0)
+insertarEnAbb (15,15.0)
+esPerfecto
+insertarEnAbb (25,25.0)
+esPerfecto
+insertarEnAbb (35,35.0)
+esPerfecto
+insertarEnAbb (2,2.0)
+insertarEnAbb (7,7.0)
+insertarEnAbb (12,12.0)
+insertarEnAbb (17,17.0)
+insertarEnAbb (22,22.0)
+insertarEnAbb (27,27.0)
+insertarEnAbb (32,32.0)
+esPerfecto
+insertarEnAbb (37,37.0)
+esPerfecto
+reiniciarEstructuras
+# implementar menores
+menores 20.0
+insertarEnAbb (20,20.00)
+menores 20.0
+menores 21.0
+insertarEnAbb (15,25.0)
+menores 21.0
+menores 25.0
+menores 26.0
+insertarEnAbb (10,10.0)
+menores 20.0
+insertarEnAbb (40,11.0)
+menores 11.0
+menores 12.0
+insertarEnAbb (50,5.0)
+menores 10.0
+menores 11.0
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+menores 10.0
+menores 11.0
+menores 6.0
+insertarEnAbb (32,5.0)
+menores 6.0
+menores 12.0
+insertarEnAbb (27,4.0)
+menores 5.0
+menores 12.0
+menores 11.0
+reiniciarEstructuras
+# implementar caminoAscendente
+insertarEnAbb (20,20.00)
+insertarEnAbb (15,25.0)
+insertarEnAbb (10,10.0)
+insertarEnAbb (40,11.0)
+insertarEnAbb (50,5.0)
+insertarEnAbb (30,15.0)
+insertarEnAbb (25,6.0)
+insertarEnAbb (35,10.0)
+insertarEnAbb (32,5.0)
+insertarEnAbb (27,4.0)
+imprimirAbb
+caminoAscendente 20 0
+caminoAscendente 20 1
+caminoAscendente 20 2
+caminoAscendente 40 0
+caminoAscendente 40 1
+caminoAscendente 40 2
+caminoAscendente 40 3
+caminoAscendente 15 0
+caminoAscendente 15 1
+caminoAscendente 15 2
+caminoAscendente 15 3
+caminoAscendente 50 0
+caminoAscendente 50 2
+caminoAscendente 50 4
+caminoAscendente 10 3
+caminoAscendente 25 3
+caminoAscendente 35 0
+caminoAscendente 35 2
+caminoAscendente 32 0
+caminoAscendente 32 4
+caminoAscendente 32 5
+caminoAscendente 32 6
+reiniciarEstructuras
+# implementar imprimirPalabrasCortas
+insertarPalabra al
+insertarPalabra cal
+insertarPalabra can
+insertarPalabra la
+insertarPalabra los
+insertarPalabra losas
+insertarPalabra mensaje
+imprimirPalabrasCortas 2
+imprimirPalabrasCortas 3
+imprimirPalabrasCortas 7
+imprimirPalabrasCortas 8
+reiniciarEstructuras
+insertarPalabra a
+insertarPalabra mensaje
+insertarPalabra mes
+insertarPalabra mesa
+insertarPalabra mesada
+imprimirPalabrasCortas 1
+imprimirPalabrasCortas 7
+imprimirPalabrasCortas 8
+reiniciarEstructuras
+# implementar buscarFinPrefijo
+insertarPalabra al
+insertarPalabra cal
+insertarPalabra can
+insertarPalabra la
+insertarPalabra los
+insertarPalabra losas
+insertarPalabra mensaje
+buscarFinPrefijo c
+buscarFinPrefijo m
+buscarFinPrefijo lo
+buscarFinPrefijo losas
+buscarFinPrefijo q
+buscarFinPrefijo mensaj
+reiniciarEstructuras
+insertarPalabra a
+insertarPalabra mensaje
+insertarPalabra mes
+insertarPalabra mesa
+insertarPalabra mesada
+buscarFinPrefijo a
+buscarFinPrefijo men
+buscarFinPrefijo mena
+buscarFinPrefijo mes
+Fin

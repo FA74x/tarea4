@@ -1,0 +1,29 @@
+# implementar menoresQueElResto
+menoresQueElResto
+insertarAlInicio 50 50.0
+menoresQueElResto
+insertarAlInicio 60 40.0
+menoresQueElResto
+insertarAlFinal 60 60.0
+menoresQueElResto
+insertarAlFinal 60 70.0
+menoresQueElResto
+insertarAlInicio 50 40.0
+menoresQueElResto
+insertarAlInicio 30 30.0
+insertarAlFinal 40 40.0
+menoresQueElResto
+insertarAlFinal 50 5.0
+insertarAlFinal 61 60.0
+insertarAlFinal 62 60.0
+insertarAlFinal 63 60.0
+insertarAlFinal 64 60.0
+insertarAlFinal 65 60.0
+insertarAlFinal 60 60.0
+insertarAlFinal 70 70.0
+insertarAlFinal 60 6.0
+insertarAlFinal 70 7.0
+menoresQueElResto
+insertarAlFinal 10 1.0
+menoresQueElResto
+Fin

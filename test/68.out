@@ -1,0 +1,29 @@
+1>#  implementar menoresQueElResto.
+2>
+3>Se insertó (50,50.00) al inicio de la cadena.
+4>(50,50.00)
+5>Se insertó (60,40.00) al inicio de la cadena.
+6>(50,50.00)
+7>Se insertó (60,60.00) al final de la cadena.
+8>(60,60.00)(50,50.00)
+9>Se insertó (60,70.00) al final de la cadena.
+10>(60,70.00)(50,50.00)
+11>Se insertó (50,40.00) al inicio de la cadena.
+12>(60,70.00)(50,50.00)
+13>Se insertó (30,30.00) al inicio de la cadena.
+14>Se insertó (40,40.00) al final de la cadena.
+15>(40,40.00)(30,30.00)
+16>Se insertó (50,5.00) al final de la cadena.
+17>Se insertó (61,60.00) al final de la cadena.
+18>Se insertó (62,60.00) al final de la cadena.
+19>Se insertó (63,60.00) al final de la cadena.
+20>Se insertó (64,60.00) al final de la cadena.
+21>Se insertó (65,60.00) al final de la cadena.
+22>Se insertó (60,60.00) al final de la cadena.
+23>Se insertó (70,70.00) al final de la cadena.
+24>Se insertó (60,6.00) al final de la cadena.
+25>Se insertó (70,7.00) al final de la cadena.
+26>(70,7.00)(60,6.00)(50,5.00)(40,40.00)(30,30.00)
+27>Se insertó (10,1.00) al final de la cadena.
+28>(10,1.00)
+29>Fin.

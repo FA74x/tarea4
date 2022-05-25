@@ -1,0 +1,75 @@
+1>#  implementar _rep_iterador, crearIterador, liberarIterador, estaDefinidaActual.
+2>Actual de it NO está definida.
+3>Estructuras reiniciadas.
+4>#  implementar agregarAIterador.
+5>Actual de it NO está definida.
+6>Agregando 5 a it.
+7>Actual de it NO está definida.
+8>Estructuras reiniciadas.
+9>#  implementar reiniciarIterador.
+10>Reiniciando it.
+11>Actual de it NO está definida.
+12>Agregando 5 a it.
+13>Reiniciando it.
+14>Actual de it está definida.
+15>Agregando 5 a it.
+16>Agregando 5 a it.
+17>Agregando 5 a it.
+18>Reiniciando it.
+19>Actual de it está definida.
+20>Estructuras reiniciadas.
+21>#  implementar actualEnIterador.
+22>Reiniciando it.
+23>Actual de it NO está definida.
+24>Agregando 5 a it.
+25>Reiniciando it.
+26>Actual de it está definida.
+27>El actual de it es 5.
+28>Agregando 5 a it.
+29>Agregando 6 a it.
+30>Agregando 7 a it.
+31>Reiniciando it.
+32>Actual de it está definida.
+33>El actual de it es 5.
+34>Estructuras reiniciadas.
+35>#  implementar avanzarIterador.
+36>Avanzando en it.
+37>Actual de it NO está definida.
+38>Reiniciando it.
+39>Avanzando en it.
+40>Actual de it NO está definida.
+41>Agregando 5 a it.
+42>Avanzando en it.
+43>Actual de it NO está definida.
+44>Reiniciando it.
+45>Actual de it está definida.
+46>El actual de it es 5.
+47>Avanzando en it.
+48>Actual de it NO está definida.
+49>Agregando 5 a it.
+50>Agregando 6 a it.
+51>Agregando 7 a it.
+52>Actual de it NO está definida.
+53>Avanzando en it.
+54>Reiniciando it.
+55>Actual de it está definida.
+56>El actual de it es 5.
+57>Avanzando en it.
+58>El actual de it es 5.
+59>Avanzando en it.
+60>El actual de it es 6.
+61>Avanzando en it.
+62>El actual de it es 7.
+63>Avanzando en it.
+64>Actual de it NO está definida.
+65>Reiniciando it.
+66>Actual de it está definida.
+67>El actual de it es 5.
+68>Avanzando en it.
+69>Avanzando en it.
+70>Avanzando en it.
+71>Actual de it está definida.
+72>El actual de it es 7.
+73>Avanzando en it.
+74>Actual de it NO está definida.
+75>Fin.

@@ -1,0 +1,77 @@
+1>#  implementar insertarAlFinal.
+2>Se insertó (5,5.00) al final de la cadena.
+3>El primero es (5,5.00)
+4>Se removió la primera aparición de 5 de la cadena.
+5>La cantidad es 0.
+6>Se insertó (6,6.00) al inicio de la cadena.
+7>Se insertó (7,7.00) al final de la cadena.
+8>El primero es (6,6.00)
+9>(6,6.00)(7,7.00)
+10>Se removió la primera aparición de 7 de la cadena.
+11>El primero es (6,6.00)
+12>Se insertó (6,16.10) al final de la cadena.
+13>El primero es (6,6.00)
+14>(6,6.00)(6,16.10)
+15>(6,16.10)(6,6.00)
+16>Estructuras reiniciadas.
+17>Se insertó (5,5.00) al final de la cadena.
+18>Se insertó (5,15.10) al final de la cadena.
+19>Se insertó (5,25.20) al final de la cadena.
+20>Se insertó (5,35.30) al final de la cadena.
+21>El primero es (5,5.00)
+22>(5,5.00)(5,15.10)(5,25.20)(5,35.30)
+23>(5,35.30)(5,5.00)(5,15.10)(5,25.20)
+24>Estructuras reiniciadas.
+25>#  implementar removerPrimero.
+26>Se insertó (5,5.00) al inicio de la cadena.
+27>Se removió el primer elemento de la cadena.
+28>La cantidad es 0.
+29>Se insertó (6,6.00) al inicio de la cadena.
+30>Se insertó (7,7.00) al final de la cadena.
+31>Se removió el primer elemento de la cadena.
+32>La cantidad es 1.
+33>El primero es (7,7.00)
+34>(7,7.00)
+35>Se insertó (8,8.00) al inicio de la cadena.
+36>Se insertó (6,6.00) al inicio de la cadena.
+37>Se removió el primer elemento de la cadena.
+38>La cantidad es 2.
+39>El primero es (8,8.00)
+40>(8,8.00)(7,7.00)
+41>Estructuras reiniciadas.
+42>#  implementar copiaCadena.
+43>
+44>Se insertó (5,5.00) al inicio de la cadena.
+45>(5,5.00)
+46>Se insertó (6,6.00) al inicio de la cadena.
+47>(6,6.00)(5,5.00)
+48>(5,5.00)(6,6.00)
+49>(6,6.00)(5,5.00)
+50>Se insertó (9,6.00) al inicio de la cadena.
+51>Se insertó (8,8.00) al inicio de la cadena.
+52>Se insertó (7,7.00) al inicio de la cadena.
+53>Se insertó (4,4.00) al inicio de la cadena.
+54>Se insertó (3,3.00) al inicio de la cadena.
+55>(4,4.00)(7,7.00)(8,8.00)(9,6.00)(6,6.00)(5,5.00)(3,3.00)
+56>(3,3.00)(4,4.00)(7,7.00)(8,8.00)(9,6.00)(6,6.00)(5,5.00)
+57>Estructuras reiniciadas.
+58>#  implementar reversoDeIterador.
+59>
+60>Agregando 1 a it.
+61>1 
+62>Agregando 2 a it.
+63>2 1 
+64>Estructuras reiniciadas.
+65>Agregando 1 a it.
+66>Agregando 2 a it.
+67>Agregando 3 a it.
+68>Agregando 4 a it.
+69>Agregando 5 a it.
+70>Agregando 6 a it.
+71>6 5 4 3 2 1 
+72>6 5 4 3 2 1 
+73>Agregando 13 a it.
+74>Agregando 12 a it.
+75>Agregando 11 a it.
+76>11 12 13 6 5 4 3 2 1 
+77>Fin.

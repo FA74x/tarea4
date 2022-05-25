@@ -1,0 +1,466 @@
+1>#  implementar _rep_abb, crearAbb, liberarAbb, esVacioAbb, buscarSubarbol (al menos para un árbol vacío).
+2>El abb es vacío.
+3>5 no está en el abb.
+4>Estructuras reiniciadas.
+5>#  implementar buscarSubarbol, insertarEnAbb (al menos en un árbol vacío), raiz, izquierdo, derecho.
+6>Se insertó (5,5.00) en el abb.
+7>El abb NO es vacío.
+8>(5,5.00)
+9>3 no está en el abb.
+10>La raíz del abb es: (5,5.00)
+11>El abb no tiene hijo izquierdo.
+12>El abb no tiene hijo derecho.
+13>Estructuras reiniciadas.
+14>#  implementar insertarEnAbb, menorEnAbb, mayorEnAbb.
+15>Se insertó (50,50.00) en el abb.
+16>El menor en el abb es: (50,50.00)
+17>El mayor en el abb es: (50,50.00)
+18>Se insertó (30,30.00) en el abb.
+19>(30,30.00)
+20>El menor en el abb es: (30,30.00)
+21>El mayor en el abb es: (50,50.00)
+22>Se insertó (80,80.00) en el abb.
+23>Se insertó (90,90.00) en el abb.
+24>El mayor en el abb es: (90,90.00)
+25>(80,80.00)
+26>(90,90.00)
+27>Se insertó (85,85.00) en el abb.
+28>Se insertó (40,40.00) en el abb.
+29>El menor en el abb es: (30,30.00)
+30>El mayor en el abb es: (90,90.00)
+31>Estructuras reiniciadas.
+32>Se insertó (12,12.00) en el abb.
+33>Se insertó (8,8.00) en el abb.
+34>Se insertó (5,5.00) en el abb.
+35>Se insertó (4,4.00) en el abb.
+36>Se insertó (2,2.00) en el abb.
+37>Se insertó (7,7.00) en el abb.
+38>Se insertó (6,6.00) en el abb.
+39>Se insertó (11,11.00) en el abb.
+40>Se insertó (18,18.00) en el abb.
+41>Se insertó (17,17.00) en el abb.
+42>La raíz del abb es: (12,12.00)
+43>La raíz del hijo izquierdo del abb es: (8,8.00)
+44>La raíz del hijo derecho del abb es: (18,18.00)
+45>El menor en el abb es: (2,2.00)
+46>El mayor en el abb es: (18,18.00)
+47>(12,12.00)
+48>(5,5.00)
+49>(18,18.00)
+50>Estructuras reiniciadas.
+51>#  implementar removerDeAbb.
+52>Se insertó (5,5.00) en el abb.
+53>Se removió 5 del abb.
+54>5 no está en el abb.
+55>El abb es vacío.
+56>Estructuras reiniciadas.
+57>Se insertó (12,12.00) en el abb.
+58>Se insertó (8,8.00) en el abb.
+59>Se insertó (5,5.00) en el abb.
+60>Se insertó (4,4.00) en el abb.
+61>Se insertó (2,2.00) en el abb.
+62>Se insertó (7,7.00) en el abb.
+63>Se insertó (6,6.00) en el abb.
+64>Se insertó (11,11.00) en el abb.
+65>Se insertó (38,38.00) en el abb.
+66>Se insertó (17,17.00) en el abb.
+67>Se insertó (20,20.00) en el abb.
+68>Se insertó (30,30.00) en el abb.
+69>Se removió 2 del abb.
+70>Se removió 38 del abb.
+71>El menor en el abb es: (4,4.00)
+72>El mayor en el abb es: (30,30.00)
+73>La raíz del hijo derecho del abb es: (17,17.00)
+74>2 no está en el abb.
+75>(17,17.00)
+76>38 no está en el abb.
+77>Se removió 12 del abb.
+78>La raíz del abb es: (11,11.00)
+79>La raíz del hijo izquierdo del abb es: (8,8.00)
+80>La raíz del hijo derecho del abb es: (17,17.00)
+81>Se removió 11 del abb.
+82>La raíz del abb es: (8,8.00)
+83>La raíz del hijo izquierdo del abb es: (5,5.00)
+84>La raíz del hijo derecho del abb es: (17,17.00)
+85>Se removió 8 del abb.
+86>La raíz del abb es: (7,7.00)
+87>La raíz del hijo izquierdo del abb es: (5,5.00)
+88>La raíz del hijo derecho del abb es: (17,17.00)
+89>Se removió 7 del abb.
+90>La raíz del abb es: (6,6.00)
+91>La raíz del hijo izquierdo del abb es: (5,5.00)
+92>La raíz del hijo derecho del abb es: (17,17.00)
+93>Se removió 6 del abb.
+94>La raíz del abb es: (5,5.00)
+95>La raíz del hijo izquierdo del abb es: (4,4.00)
+96>La raíz del hijo derecho del abb es: (17,17.00)
+97>Se removió 5 del abb.
+98>La raíz del abb es: (4,4.00)
+99>El abb no tiene hijo izquierdo.
+100>La raíz del hijo derecho del abb es: (17,17.00)
+101>Se removió 4 del abb.
+102>La raíz del abb es: (17,17.00)
+103>El abb no tiene hijo izquierdo.
+104>La raíz del hijo derecho del abb es: (20,20.00)
+105>El abb NO es vacío.
+106>Se removió 20 del abb.
+107>La raíz del abb es: (17,17.00)
+108>El abb no tiene hijo izquierdo.
+109>La raíz del hijo derecho del abb es: (30,30.00)
+110>El abb NO es vacío.
+111>Se removió 17 del abb.
+112>La raíz del abb es: (30,30.00)
+113>El abb no tiene hijo izquierdo.
+114>El abb no tiene hijo derecho.
+115>El abb NO es vacío.
+116>Se removió 30 del abb.
+117>El abb es vacío.
+118>Estructuras reiniciadas.
+119>#  implementar linealizacion, imprimirAbb, copiaAbb, consAbb.
+120>
+121>
+122>
+123>
+(10,10.00)
+124>El abb es vacío.
+125>Se insertó (5,5.00) en el abb.
+126>(5,5.00)
+127>
+(5,5.00)
+128>
+(5,5.00)
+129>
+(9,9.00)
+-(5,5.00)
+130>
+-(5,5.00)
+(3,3.00)
+131>Se insertó (2,2.00) en el abb.
+132>Se insertó (30,30.00) en el abb.
+133>(2,2.00)(5,5.00)(30,30.00)
+134>
+-(30,30.00)
+(5,5.00)
+-(2,2.00)
+135>Se insertó (20,20.00) en el abb.
+136>Se insertó (10,10.00) en el abb.
+137>Se insertó (15,15.00) en el abb.
+138>Se insertó (25,25.00) en el abb.
+139>Se insertó (40,40.00) en el abb.
+140>Se insertó (35,35.00) en el abb.
+141>Se insertó (38,38.00) en el abb.
+142>Se insertó (50,50.00) en el abb.
+143>Se insertó (45,45.00) en el abb.
+144>Se insertó (60,60.00) en el abb.
+145>(2,2.00)(5,5.00)(10,10.00)(15,15.00)(20,20.00)(25,25.00)(30,30.00)(35,35.00)(38,38.00)(40,40.00)(45,45.00)(50,50.00)(60,60.00)
+146>
+----(60,60.00)
+---(50,50.00)
+----(45,45.00)
+--(40,40.00)
+----(38,38.00)
+---(35,35.00)
+-(30,30.00)
+---(25,25.00)
+--(20,20.00)
+----(15,15.00)
+---(10,10.00)
+(5,5.00)
+-(2,2.00)
+147>
+----(60,60.00)
+---(50,50.00)
+----(45,45.00)
+--(40,40.00)
+----(38,38.00)
+---(35,35.00)
+-(30,30.00)
+---(25,25.00)
+--(20,20.00)
+----(15,15.00)
+---(10,10.00)
+(5,5.00)
+-(2,2.00)
+148>
+---(60,60.00)
+--(50,50.00)
+---(45,45.00)
+-(40,40.00)
+---(38,38.00)
+--(35,35.00)
+(26,26.00)
+--(25,25.00)
+-(20,20.00)
+---(15,15.00)
+--(10,10.00)
+149>
+---(60,60.00)
+--(50,50.00)
+---(45,45.00)
+-(40,40.00)
+---(38,38.00)
+--(35,35.00)
+(34,34.00)
+--(25,25.00)
+-(20,20.00)
+---(15,15.00)
+--(10,10.00)
+150>Estructuras reiniciadas.
+151>#  implementar esPerfecto.
+152>El abb es perfecto.
+153>Se insertó (20,20.00) en el abb.
+154>El abb es perfecto.
+155>Se insertó (30,30.00) en el abb.
+156>El abb NO es perfecto.
+157>Se insertó (10,10.00) en el abb.
+158>El abb es perfecto.
+159>Se insertó (5,5.00) en el abb.
+160>Se insertó (15,15.00) en el abb.
+161>El abb NO es perfecto.
+162>Se insertó (25,25.00) en el abb.
+163>El abb NO es perfecto.
+164>Se insertó (35,35.00) en el abb.
+165>El abb es perfecto.
+166>Se insertó (2,2.00) en el abb.
+167>Se insertó (7,7.00) en el abb.
+168>Se insertó (12,12.00) en el abb.
+169>Se insertó (17,17.00) en el abb.
+170>Se insertó (22,22.00) en el abb.
+171>Se insertó (27,27.00) en el abb.
+172>Se insertó (32,32.00) en el abb.
+173>El abb NO es perfecto.
+174>Se insertó (37,37.00) en el abb.
+175>El abb es perfecto.
+176>Estructuras reiniciadas.
+177>#  implementar menores.
+178>
+179>Se insertó (20,20.00) en el abb.
+180>
+181>
+(20,20.00)
+182>Se insertó (15,25.00) en el abb.
+183>
+(20,20.00)
+184>
+(20,20.00)
+185>
+(20,20.00)
+-(15,25.00)
+186>Se insertó (10,10.00) en el abb.
+187>
+(10,10.00)
+188>Se insertó (40,11.00) en el abb.
+189>
+(10,10.00)
+190>
+-(40,11.00)
+(10,10.00)
+191>Se insertó (50,5.00) en el abb.
+192>
+(50,5.00)
+193>
+-(50,5.00)
+(10,10.00)
+194>Se insertó (30,15.00) en el abb.
+195>Se insertó (25,6.00) en el abb.
+196>Se insertó (35,10.00) en el abb.
+197>
+-(50,5.00)
+(25,6.00)
+198>
+--(50,5.00)
+-(35,10.00)
+--(25,6.00)
+(10,10.00)
+199>
+(50,5.00)
+200>Se insertó (32,5.00) en el abb.
+201>
+-(50,5.00)
+(32,5.00)
+202>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(25,6.00)
+(10,10.00)
+203>Se insertó (27,4.00) en el abb.
+204>
+(27,4.00)
+205>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(27,4.00)
+---(25,6.00)
+(10,10.00)
+206>
+--(50,5.00)
+-(35,10.00)
+---(32,5.00)
+--(27,4.00)
+---(25,6.00)
+(10,10.00)
+207>Estructuras reiniciadas.
+208>#  implementar caminoAscendente.
+209>Se insertó (20,20.00) en el abb.
+210>Se insertó (15,25.00) en el abb.
+211>Se insertó (10,10.00) en el abb.
+212>Se insertó (40,11.00) en el abb.
+213>Se insertó (50,5.00) en el abb.
+214>Se insertó (30,15.00) en el abb.
+215>Se insertó (25,6.00) en el abb.
+216>Se insertó (35,10.00) en el abb.
+217>Se insertó (32,5.00) en el abb.
+218>Se insertó (27,4.00) en el abb.
+219>
+--(50,5.00)
+-(40,11.00)
+---(35,10.00)
+----(32,5.00)
+--(30,15.00)
+----(27,4.00)
+---(25,6.00)
+(20,20.00)
+-(15,25.00)
+--(10,10.00)
+220>
+La posición actual NO está definida.
+221>20 
+La posición actual NO está definida.
+222>20 
+La posición actual NO está definida.
+223>
+La posición actual NO está definida.
+224>40 
+La posición actual NO está definida.
+225>40 20 
+La posición actual NO está definida.
+226>40 20 
+La posición actual NO está definida.
+227>
+La posición actual NO está definida.
+228>15 
+La posición actual NO está definida.
+229>15 20 
+La posición actual NO está definida.
+230>15 20 
+La posición actual NO está definida.
+231>
+La posición actual NO está definida.
+232>50 40 
+La posición actual NO está definida.
+233>50 40 20 
+La posición actual NO está definida.
+234>10 15 20 
+La posición actual NO está definida.
+235>25 30 40 
+La posición actual NO está definida.
+236>
+La posición actual NO está definida.
+237>35 30 
+La posición actual NO está definida.
+238>
+La posición actual NO está definida.
+239>32 35 30 40 
+La posición actual NO está definida.
+240>32 35 30 40 20 
+La posición actual NO está definida.
+241>32 35 30 40 20 
+La posición actual NO está definida.
+242>Estructuras reiniciadas.
+243>#  implementar imprimirPalabrasCortas.
+244>Insertando al.
+245>Insertando cal.
+246>Insertando can.
+247>Insertando la.
+248>Insertando los.
+249>Insertando losas.
+250>Insertando mensaje.
+251>
+al
+la
+252>
+al
+cal
+can
+la
+los
+253>
+al
+cal
+can
+la
+los
+losas
+mensaje
+254>
+al
+cal
+can
+la
+los
+losas
+mensaje
+255>Estructuras reiniciadas.
+256>Insertando a.
+257>Insertando mensaje.
+258>Insertando mes.
+259>Insertando mesa.
+260>Insertando mesada.
+261>
+a
+262>
+a
+mensaje
+mes
+mesa
+mesada
+263>
+a
+mensaje
+mes
+mesa
+mesada
+264>Estructuras reiniciadas.
+265>#  implementar buscarFinPrefijo.
+266>Insertando al.
+267>Insertando cal.
+268>Insertando can.
+269>Insertando la.
+270>Insertando los.
+271>Insertando losas.
+272>Insertando mensaje.
+273>
+cal
+can
+274>
+mensaje
+275>
+los
+losas
+276>
+losas
+277>
+palabras no contiene q.
+278>
+mensaje
+279>Estructuras reiniciadas.
+280>Insertando a.
+281>Insertando mensaje.
+282>Insertando mes.
+283>Insertando mesa.
+284>Insertando mesada.
+285>
+a
+286>
+mensaje
+287>
+palabras no contiene mena.
+288>
+mes
+mesa
+mesada
+289>Fin.

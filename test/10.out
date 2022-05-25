@@ -1,0 +1,225 @@
+1>#  implementar _rep_cadena, crearCadena, libararCadena, cantidadEnCadena, estaEnCadena.
+2>La cantidad es 0.
+3>5 no está en la cadena.
+4>Estructuras reiniciadas.
+5>#  implementar insertarAlInicio, imprimirCadena.
+6>
+7>Se insertó (5,5.00) al inicio de la cadena.
+8>(5,5.00)
+9>La cantidad es 1.
+10>1 no está en la cadena.
+11>5 está en la cadena.
+12>Se insertó (1,1.00) al inicio de la cadena.
+13>(1,1.00)(5,5.00)
+14>La cantidad es 2.
+15>1 está en la cadena.
+16>Se insertó (0,0.00) al inicio de la cadena.
+17>Se insertó (2,2.00) al inicio de la cadena.
+18>Se insertó (8,8.00) al inicio de la cadena.
+19>Se insertó (3,3.00) al inicio de la cadena.
+20>Se insertó (7,7.00) al inicio de la cadena.
+21>Se insertó (4,4.00) al inicio de la cadena.
+22>Se insertó (6,6.00) al inicio de la cadena.
+23>Se insertó (1,1.00) al inicio de la cadena.
+24>(1,1.00)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(1,1.00)(5,5.00)
+25>La cantidad es 10.
+26>1 está en la cadena.
+27>5 está en la cadena.
+28>0 está en la cadena.
+29>6 está en la cadena.
+30>9 no está en la cadena.
+31>Estructuras reiniciadas.
+32>#  implementar infoCadena.
+33>Se insertó (5,5.00) al inicio de la cadena.
+34>El elemento es (5,5.00)
+35>Se insertó (1,11.10) al inicio de la cadena.
+36>Se insertó (0,0.00) al inicio de la cadena.
+37>Se insertó (2,2.00) al inicio de la cadena.
+38>Se insertó (8,8.00) al inicio de la cadena.
+39>Se insertó (3,3.00) al inicio de la cadena.
+40>Se insertó (7,7.00) al inicio de la cadena.
+41>Se insertó (4,4.00) al inicio de la cadena.
+42>Se insertó (6,6.00) al inicio de la cadena.
+43>Se insertó (1,1.00) al inicio de la cadena.
+44>(1,1.00)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(0,0.00)(1,11.10)(5,5.00)
+45>La cantidad es 10.
+46>El elemento es (1,1.00)
+47>El elemento es (0,0.00)
+48>El elemento es (6,6.00)
+49>Estructuras reiniciadas.
+50>#  implementar removerDeCadena.
+51>Se insertó (5,5.00) al inicio de la cadena.
+52>(5,5.00)
+53>Se removió la primera aparición de 5 de la cadena.
+54>#  se removió el único.
+55>
+56>5 no está en la cadena.
+57>La cantidad es 0.
+58>Se insertó (5,5.00) al inicio de la cadena.
+59>(5,5.00)
+60>La cantidad es 1.
+61>El elemento es (5,5.00)
+62>Se insertó (1,11.10) al inicio de la cadena.
+63>Se insertó (0,0.00) al inicio de la cadena.
+64>Se insertó (5,15.50) al inicio de la cadena.
+65>(5,15.50)(0,0.00)(1,11.10)(5,5.00)
+66>Se removió la primera aparición de 5 de la cadena.
+67>#  se removió el primero de los 5, que además es el primero de la cadena.
+68>(0,0.00)(1,11.10)(5,5.00)
+69>5 está en la cadena.
+70>La cantidad es 3.
+71>El elemento es (1,11.10)
+72>El elemento es (0,0.00)
+73>El elemento es (5,5.00)
+74>Se removió la primera aparición de 5 de la cadena.
+75>#  se removió el último.
+76>(0,0.00)(1,11.10)
+77>5 no está en la cadena.
+78>La cantidad es 2.
+79>Se insertó (2,2.00) al inicio de la cadena.
+80>(2,2.00)(0,0.00)(1,11.10)
+81>Se removió la primera aparición de 0 de la cadena.
+82>#  se removió un elemento intermedio.
+83>(2,2.00)(1,11.10)
+84>0 no está en la cadena.
+85>El elemento es (1,11.10)
+86>El elemento es (2,2.00)
+87>La cantidad es 2.
+88>Se insertó (8,8.00) al inicio de la cadena.
+89>Se insertó (3,3.00) al inicio de la cadena.
+90>Se insertó (7,7.00) al inicio de la cadena.
+91>Se insertó (4,4.00) al inicio de la cadena.
+92>Se insertó (6,6.00) al inicio de la cadena.
+93>Se insertó (1,1.00) al inicio de la cadena.
+94>Se insertó (5,1.00) al inicio de la cadena.
+95>Se insertó (7,17.00) al inicio de la cadena.
+96>(7,17.00)(5,1.00)(1,1.00)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(1,11.10)
+97>El elemento es (7,17.00)
+98>La cantidad es 10.
+99>Se removió la primera aparición de 7 de la cadena.
+100>#  se removió el primero de los 7, que NO es el primero de la cadena.
+101>(5,1.00)(1,1.00)(6,6.00)(4,4.00)(7,7.00)(3,3.00)(8,8.00)(2,2.00)(1,11.10)
+102>La cantidad es 9.
+103>7 está en la cadena.
+104>El elemento es (7,7.00)
+105>Estructuras reiniciadas.
+106>#  implementar primeroEnCadena cadenaSiguiente.
+107>#  cadena vacía.
+108>La cantidad es 0.
+109>5 no está en la cadena.
+110>
+111>
+112>
+113>#  cadena con un elemento.
+114>Se insertó (5,5.00) al inicio de la cadena.
+115>La cantidad es 1.
+116>5 está en la cadena.
+117>3 no está en la cadena.
+118>(5,5.00)
+119>El primero es (5,5.00)
+120>El elemento es (5,5.00)
+121>(5,5.00)
+122>(5,5.00)
+123>(5,5.00)
+124>#  cadena con dos elementos.
+125>Estructuras reiniciadas.
+126>Se insertó (5,5.00) al inicio de la cadena.
+127>Se insertó (3,3.00) al inicio de la cadena.
+128>La cantidad es 2.
+129>5 está en la cadena.
+130>(3,3.00)(5,5.00)
+131>El primero es (3,3.00)
+132>El elemento es (3,3.00)
+133>El elemento es (5,5.00)
+134>(3,3.00)(5,5.00)
+135>(5,5.00)(3,3.00)
+136>(3,3.00)(5,5.00)
+137>(5,5.00)(3,3.00)
+138>#  remover el único.
+139>Estructuras reiniciadas.
+140>Se insertó (5,5.00) al inicio de la cadena.
+141>Se removió la primera aparición de 5 de la cadena.
+142>La cantidad es 0.
+143>5 no está en la cadena.
+144>
+145>
+146>
+147>#  cadena con tres elementos.
+148>Se insertó (5,5.00) al inicio de la cadena.
+149>Se insertó (3,3.00) al inicio de la cadena.
+150>Se insertó (7,7.00) al inicio de la cadena.
+151>La cantidad es 3.
+152>5 está en la cadena.
+153>3 está en la cadena.
+154>7 está en la cadena.
+155>9 no está en la cadena.
+156>(7,7.00)(3,3.00)(5,5.00)
+157>El primero es (7,7.00)
+158>El elemento es (5,5.00)
+159>El elemento es (3,3.00)
+160>El elemento es (7,7.00)
+161>(7,7.00)(3,3.00)(5,5.00)
+162>(3,3.00)(5,5.00)(7,7.00)
+163>(5,5.00)(7,7.00)(3,3.00)
+164>(7,7.00)(3,3.00)(5,5.00)
+165>(3,3.00)(5,5.00)(7,7.00)
+166>#  cadena con varios elementos.
+167>Se insertó (8,8.00) al inicio de la cadena.
+168>Se insertó (9,9.00) al inicio de la cadena.
+169>Se insertó (1,1.00) al inicio de la cadena.
+170>Se insertó (2,2.00) al inicio de la cadena.
+171>Se insertó (4,4.00) al inicio de la cadena.
+172>Se insertó (1,91.00) al inicio de la cadena.
+173>Se insertó (6,6.00) al inicio de la cadena.
+174>Se insertó (0,0.00) al inicio de la cadena.
+175>Se insertó (11,11.00) al inicio de la cadena.
+176>Se insertó (15,15.00) al inicio de la cadena.
+177>La cantidad es 13.
+178>11 está en la cadena.
+179>15 está en la cadena.
+180>14 no está en la cadena.
+181>(15,15.00)(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)
+182>El primero es (15,15.00)
+183>El elemento es (15,15.00)
+184>El elemento es (5,5.00)
+185>El elemento es (11,11.00)
+186>(15,15.00)(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)
+187>(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)(15,15.00)
+188>(3,3.00)(5,5.00)(15,15.00)(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+189>(5,5.00)(15,15.00)(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)
+190>(15,15.00)(11,11.00)(0,0.00)(6,6.00)(1,91.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)
+191>#  se remueve uno intermedio.
+192>Se removió la primera aparición de 1 de la cadena.
+193>La cantidad es 12.
+194>El primero es (15,15.00)
+195>(15,15.00)(11,11.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)
+196>(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)(15,15.00)(11,11.00)(0,0.00)
+197>(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)(15,15.00)(11,11.00)(0,0.00)(6,6.00)
+198>#  se remueve el segundo.
+199>Se removió la primera aparición de 11 de la cadena.
+200>La cantidad es 11.
+201>El primero es (15,15.00)
+202>(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)
+203>(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(3,3.00)(5,5.00)(15,15.00)
+204>#  se remueve el penultimo.
+205>Se removió la primera aparición de 3 de la cadena.
+206>La cantidad es 10.
+207>El primero es (15,15.00)
+208>(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)(5,5.00)
+209>(7,7.00)(5,5.00)(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)
+210>(5,5.00)(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+211>#  se remueve el último.
+212>Se removió la primera aparición de 5 de la cadena.
+213>La cantidad es 9.
+214>El primero es (15,15.00)
+215>(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+216>(7,7.00)(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)
+217>(15,15.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+218>#  se remueve el primero.
+219>Se removió la primera aparición de 15 de la cadena.
+220>La cantidad es 8.
+221>El primero es (0,0.00)
+222>(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+223>(7,7.00)(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)
+224>(0,0.00)(6,6.00)(4,4.00)(2,2.00)(1,1.00)(9,9.00)(8,8.00)(7,7.00)
+225>Fin.
